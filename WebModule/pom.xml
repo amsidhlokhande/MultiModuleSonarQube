@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ServiceModule</artifactId>
-    <name>ServiceModule</name>
+    <artifactId>WebModule</artifactId>
+    <name>WebModule</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
